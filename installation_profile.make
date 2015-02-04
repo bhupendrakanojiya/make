@@ -1,3 +1,3 @@
 api = 2
-core = 7.x
+core = 7.34
 projects[drupal][version] = 7.34
