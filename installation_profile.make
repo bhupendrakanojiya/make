@@ -1,5 +1,5 @@
-api = 2
 core = 7.34
+api = 2
 projects[drupal][version] = "7.34"
 projects[insprofile][type] = "profile"
 projects[insprofile][download][type] = "file"
